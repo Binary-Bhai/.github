@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Elon IT 🚀</h1>
+<h1 align="center">Welcome to Binary Bhai 🚀</h1>
 
 <p align="center">
 At <strong>Elon IT</strong>, we specialize in delivering high-quality, custom digital solutions that help businesses thrive in today’s competitive market. Whether you're looking to develop <strong>Software</strong>, build a powerful <strong>Website</strong>, create an engaging <strong>Mobile Application</strong>, or enhance your digital presence with <strong>SEO</strong> and <strong>Digital Marketing</strong> services — we’ve got you covered.
