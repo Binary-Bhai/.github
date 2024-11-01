@@ -41,7 +41,7 @@
 </div>
 <ul>
     <li>🌐 <strong>Website:</strong> <a href="https://binarybhai.com">Binary Bhai</a></li>
-    <li>📧 <strong>Email:</strong> contact@binarybhai.com</li>
+    <li>📧 <strong>Email:</strong> binarybhai.official@gmail.com</li>
     <li>📘 <strong>Facebook:</strong> <a href="https://www.facebook.com/profile.php?id=61567325396391">Binary Bhai</a>
     </li>
 </ul>
