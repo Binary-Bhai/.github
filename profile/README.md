@@ -39,9 +39,9 @@ Our mission is to empower businesses with the right technology to drive growth a
 <h3>📫 Get in Touch</h3>
 
 <ul>
-  <li><strong>Website:</strong> <a href="https://binarybhai.com">Binarybhai</a></li>
+  <li><strong>Website:</strong> <a href="https://binarybhai.com">Binary Bhai</a></li>
   <li><strong>Email:</strong> contact@elonit.com</li>
-  <li><strong>Facebook:</strong> <a href="https://www.facebook.com/profile.php?id=61567325396391">Elon IT</a></li>
+  <li><strong>Facebook:</strong> <a href="https://www.facebook.com/profile.php?id=61567325396391">Binary Bhai</a></li>
 </ul>
 
 ---
